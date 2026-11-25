@@ -1,0 +1,16 @@
+station_id,name,latitude,longitude,elevation_m
+STN-01,Synthetic station 01,18.841,73.735,580.2
+STN-02,Synthetic station 02,19.762,72.986,28.2
+STN-03,Synthetic station 03,18.841,73.447,202.5
+STN-04,Synthetic station 04,19.532,73.274,68.8
+STN-05,Synthetic station 05,19.705,73.792,645.9
+STN-06,Synthetic station 06,18.841,73.217,25.2
+STN-07,Synthetic station 07,18.265,73.562,328.9
+STN-08,Synthetic station 08,19.071,72.814,4.4
+STN-09,Synthetic station 09,19.877,73.447,229.9
+STN-10,Synthetic station 10,19.647,73.447,207.8
+STN-11,Synthetic station 11,19.359,73.274,77.5
+STN-12,Synthetic station 12,18.495,72.986,31.1
+STN-13,Synthetic station 13,19.359,73.62,407.6
+STN-14,Synthetic station 14,19.474,73.735,548.6
+STN-15,Synthetic station 15,18.15,73.735,567.7

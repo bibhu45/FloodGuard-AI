@@ -1,0 +1,7 @@
+level,rain_rate_mm_per_hr_from,rain_rate_mm_per_hr_to,meaning
+Green,0,2.5,No significant rain
+Yellow,2.5,10,"Moderate to heavy rain, be aware"
+Orange,10,25,"Heavy rain, be prepared"
+Red,25,,"Very heavy rain, take action"
+
+NOTE,Project-defined hourly adaptation for the prototype. These are NOT official IMD thresholds (IMD categories are per 24 hours). Adjust and state this on the slides.

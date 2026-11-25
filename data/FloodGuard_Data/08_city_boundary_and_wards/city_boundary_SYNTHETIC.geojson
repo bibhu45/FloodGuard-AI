@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "Synthetic city boundary"}, "geometry": {"type": "Polygon", "coordinates": [[[72.84, 18.85], [73.14, 18.85], [73.14, 19.3], [72.84, 19.3], [72.84, 18.85]]]}}]}

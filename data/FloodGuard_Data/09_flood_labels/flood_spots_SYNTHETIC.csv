@@ -1,0 +1,13 @@
+spot_id,name,latitude,longitude,elevation_m,susceptibility_0to1
+SPOT-01,Synthetic flood spot 01,19.052,72.852,3.0,1.0
+SPOT-02,Synthetic flood spot 02,19.0712,73.0439,3.0,1.0
+SPOT-03,Synthetic flood spot 03,18.8985,72.852,1.1,0.769
+SPOT-04,Synthetic flood spot 04,19.1864,72.8904,30.8,0.517
+SPOT-05,Synthetic flood spot 05,19.2056,73.1399,5.8,0.464
+SPOT-06,Synthetic flood spot 06,18.9369,73.0247,32.2,0.43
+SPOT-07,Synthetic flood spot 07,18.15,71.95,0.0,-0.419
+SPOT-08,Synthetic flood spot 08,18.15,71.95,0.0,-0.419
+SPOT-09,Synthetic flood spot 09,18.15,71.95,0.0,-0.419
+SPOT-10,Synthetic flood spot 10,18.15,71.95,0.0,-0.419
+SPOT-11,Synthetic flood spot 11,18.15,71.95,0.0,-0.419
+SPOT-12,Synthetic flood spot 12,18.15,71.95,0.0,-0.419

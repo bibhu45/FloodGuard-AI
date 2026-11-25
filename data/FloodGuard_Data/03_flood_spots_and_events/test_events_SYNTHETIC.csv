@@ -1,0 +1,5 @@
+date,area_mean_rain_mm_per_day,note
+2024-06-11,189.08,"synthetic event, for testing the dashboard replay only"
+2024-06-23,77.05,"synthetic event, for testing the dashboard replay only"
+2024-07-06,77.31,"synthetic event, for testing the dashboard replay only"
+2024-09-13,61.34,"synthetic event, for testing the dashboard replay only"
